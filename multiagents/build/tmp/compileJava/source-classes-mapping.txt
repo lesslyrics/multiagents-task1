@@ -1,0 +1,26 @@
+multiAgentAverage/App.java
+ multiAgentAverage.App
+multiAgentAverage/EnvAgent.java
+ multiAgentAverage.EnvAgent
+ multiAgentAverage.EnvAgent$PoolTranslator
+ multiAgentAverage.EnvAgent$StateRefillTranslator
+ multiAgentAverage.EnvAgent$StateTranslator
+multiAgentAverage/GodAgent.java
+ multiAgentAverage.GodAgent
+ multiAgentAverage.GodAgent$CalculatorServer
+multiAgentAverage/pack/FindAverageValue.java
+ multiAgentAverage.pack.FindAverageValue
+multiAgentAverage/NodeAgent.java
+ multiAgentAverage.NodeAgent
+ multiAgentAverage.NodeAgent$PoolFiller
+ multiAgentAverage.NodeAgent$PoolPusher
+ multiAgentAverage.NodeAgent$Prayer
+ multiAgentAverage.NodeAgent$StateListener
+ multiAgentAverage.NodeAgent$StateRefiller
+ multiAgentAverage.NodeAgent$StateSender
+multiAgentAverage/pack/SingleAgent.java
+ multiAgentAverage.pack.SingleAgent
+multiAgentAverage/MainController.java
+ multiAgentAverage.MainController
+multiAgentAverage/pack/MainController2.java
+ multiAgentAverage.pack.MainController2
