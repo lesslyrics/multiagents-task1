@@ -26,7 +26,7 @@ public class MainController {
             for (int i = 1; i <= AGENTS_TOTAL; i++) {
                 AgentController agent = cc.createNewAgent(
                         String.valueOf(i),
-                        "multiAgentAverage.pack.SingleAgent",
+                        "multiAgentAverage.average.SingleAgent",
                         null);
                 agent.start();
             }
