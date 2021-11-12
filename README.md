@@ -11,6 +11,8 @@ Solution is implemented using the JADE framework and based on the local voting p
 
  * https://www.ipme.ru/ipme/labs/ccs/alf/ARC12AmelinaFr.pdf
 
+The idea of the algorithm is that an agent makes changes to his value based on the values of his neighbours (agents with whom it is able to communicate). I have chosen this algorithm because the idea itself is pretty native and it seems to have performance potential.  
+
 ## Complexity
 
 N – number of agents
