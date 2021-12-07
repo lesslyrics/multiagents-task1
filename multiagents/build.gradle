@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation files('/home/alina.boshchenko/Desktop/hack/multiagents/src/main/resources/libs/jade-4.5.0.jar')
+    implementation files('./src/main/resources/libs/jade-4.5.0.jar')
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
 }

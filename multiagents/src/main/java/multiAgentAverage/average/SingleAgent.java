@@ -11,7 +11,7 @@ public class SingleAgent extends Agent {
 
     private String[] agentsGraph;
     private float value;
-    private final String graphLocation = "src/main/java/multiAgentAverage/resources/graph.txt";
+    private final String graphLocation = "src/main/resources/inputs/graph.txt";
 
     @Override
     protected void setup() {
