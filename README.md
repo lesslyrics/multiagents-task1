@@ -3,6 +3,8 @@
 ## Task description
 Given a graph of agents possessing a certain number, calculate the mean value for this set using agents communications. The graph of agents is not fully connected. 
 
+### Additional requirements
+Each agent receives noisy measurements from their neighbors (also could be delayed). The links between agents can switch from their active state to inactive and backward. However, on average, the time-varying communication graph must be strongly connected.
 
 ## Solution
 
